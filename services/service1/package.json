@@ -3,13 +3,7 @@
   "version": "0.0.1",
   "main": "handler.js",
   "license": "MIT",
-  "scripts": {
-    "test": "serverless-bundle test"
-  },
   "dependencies": {
     "sample": "^0.0.1"
-  },
-  "devDependencies": {
-    "serverless-bundle": "^1.9.0"
   }
 }
